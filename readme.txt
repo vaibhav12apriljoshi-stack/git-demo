@@ -2,3 +2,4 @@
 "new line added" 
 "feature-1 work started"
 "main branch mai change"
+"conflict branch ki line" 
